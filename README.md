@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### My Works
-🍅 Pomodoro timer (https://pomodoro.yeonji.dev/) <- Javascript, Blender, threeJS
-💌 Newsletter sign-up management (https://company-simulation.yeonji.dev/) <- typescript, NextJS
-🐱 Happy Cat game (https://yeonjilim.itch.io/happy-happy-happy-cat-game) <- python
----
+- 🍅 Pomodoro timer (https://pomodoro.yeonji.dev/) <- Javascript, Blender, threeJS  
+- 💌 Newsletter sign-up management (https://company-simulation.yeonji.dev/) <- typescript, NextJS  
+- 🐱 Happy Cat game (https://yeonjilim.itch.io/happy-happy-happy-cat-game) <- python  
+
 I know these projects are not perfect though 👀
 
 ### How to reach me 
