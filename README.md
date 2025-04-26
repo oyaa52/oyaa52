@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+### My Works
+🍅 Pomodoro timer (https://pomodoro.yeonji.dev/) <- Javascript, Blender, threeJS
+💌 Newsletter sign-up management (https://company-simulation.yeonji.dev/) <- typescript, NextJS
+🐱 Happy Cat game (https://yeonjilim.itch.io/happy-happy-happy-cat-game) <- python
+---
+I know these projects are not perfect though 👀
+
+### How to reach me 
+imyeonji520@gmail.com
+
+### What I'm learning
+python in SSAFY (Samsung Software Academy For Youth)
+
 <!--
 **oyaa52/oyaa52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
